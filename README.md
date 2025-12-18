@@ -1,5 +1,4 @@
-Core Machine Learning Algorithms
-
+**Core Machine Learning Algorithms
 Implement Linear Regression from scratch
 Implement Logistic Regression from scratch
 Implement K-Nearest Neighbors (KNN)
@@ -33,6 +32,7 @@ Implement DBSCAN Clustering
 Implement Isolation Forest for Anomaly Detection
 Implement One-Class SVM for Anomaly Detection
 Implement Local Outlier Factor (LOF)
+
 Neural Networks and Deep Learning
 
 Build your own Neural Network from scratch
