@@ -3,6 +3,7 @@ This project contains implementations of core machine learning algorithms and ma
 It focuses on building a strong foundation in ML concepts, mathematics, and algorithm design.
 
 Current Project Structure
+
 .
 ├── Machine learning/
 
